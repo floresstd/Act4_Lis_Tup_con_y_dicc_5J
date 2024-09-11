@@ -12,3 +12,9 @@ Ejemplos en python sobre listas, tuplas, conjuntos, diccionarios
   ![Captura de pantalla 2024-09-11 061842](https://github.com/user-attachments/assets/65508d1c-a9bf-4042-8703-ebb861c4490e)
 - Resultado
   ![Captura de pantalla 2024-09-11 062036](https://github.com/user-attachments/assets/2cc0aa0f-9a6b-46cd-a615-efe71659d487)
+
+## Ejemplo de conjuntos
+- Codigo
+  ![Captura de pantalla 2024-09-11 063340](https://github.com/user-attachments/assets/82a96728-30c5-45fd-a5e9-ddb4ca3d9a92)
+- Resultado
+  ![Captura de pantalla 2024-09-11 063419](https://github.com/user-attachments/assets/23220914-7b1a-493f-9e7d-84d224e3025f)
