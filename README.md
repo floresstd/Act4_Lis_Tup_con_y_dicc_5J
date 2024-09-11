@@ -6,3 +6,9 @@ Ejemplos en python sobre listas, tuplas, conjuntos, diccionarios
   ![Captura de pantalla 2024-09-09 084502](https://github.com/user-attachments/assets/b274fa2d-2aa8-41ca-9673-f76844928127)
 - resultado
   ![Captura de pantalla 2024-09-09 084655](https://github.com/user-attachments/assets/1dc30beb-6511-431a-a474-abdb53c7ffd0)
+## Ejemplo de tuplas
+
+- Codigo
+  ![Captura de pantalla 2024-09-11 061842](https://github.com/user-attachments/assets/65508d1c-a9bf-4042-8703-ebb861c4490e)
+- Resultado
+  ![Captura de pantalla 2024-09-11 062036](https://github.com/user-attachments/assets/2cc0aa0f-9a6b-46cd-a615-efe71659d487)
